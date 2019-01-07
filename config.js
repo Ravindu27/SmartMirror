@@ -62,16 +62,18 @@ var config = {
 				calendars: [
 					{
 						symbol: "calendar-check-o ",
-						url: "https://calendar.google.com/calendar/ical/suri111200%40gmail.com/public/basic.ics"
+						url: "https://www.google.com/url?q=https://calendar.google.com/calendar/ical/ravi222300%2540gmail.com/public/basic.ics&sa=D&source=hangouts&ust=1546905570149000&usg=AFQjCNFVQzzJUxnLlLb92bRDE0DvANr0yg"
 					}
 				]
 			}
 			
 		},
+		/*
 		{
 			module: "compliments",
 			position: "lower_third"
 		},
+		*/
 		{
 			module: "currentweather",
 			position: "top_right",
