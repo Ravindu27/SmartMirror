@@ -1,4 +1,4 @@
-#SmartMirror
+**SmartMirror**
 
 This repository only contains some files which are to be modified and added to another project. The project in question can be found at: https://github.com/MichMich/MagicMirror/
 
