@@ -12,8 +12,34 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				/*"Hey there sexy!"*/
+				"\“Do not pray for an easy life, pray for the strength to endure a difficult one.\” - Bruce Lee",
+				"\“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.\” - Bruce Lee",
+				"\“I’m not in this world to live up to your expectations and you’re not in this world to live up to mine.\” - Bruce Lee",
+				"\“Knowing is not enough, we must apply. Willing is not enough, we must do.\” - Bruce Lee",
+				"\“Do or do not. There is no try\” - Master Yoda",
+				"\“I have a dream.\” - Martin Luther King Jr.",
+				"\“I have a nightmare.\” - Soorya S.",
+				"\“Facts don’t care about your feelings\” - Ben Shapiro ",
+				"\“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.\”  ― Marilyn Monroe",
+				"\“Be yourself; everyone else is already taken.\”  ― Oscar Wilde",
+				"\“I don’t need an Iron Man suit. I’m already a weapon of mass seduction.\” – Robert Downey Jr.",
+				"\“Listen, smile, agree, and then do whatever the f*&k you were gonna do anyway.\” – Robert Downey Jr.",
+				"\“You’ve got enemies? Good, that means you actually stood up for something.\” – Marshall Mathers",
+				"\“It’s beauty in the struggle, ugliness in the success.\” – J.Cole",
+				"\“I’d like to take this chance to apologize to absolutely nobody.\” - Conor McGregor",
+				"\“A word after a word after a word is power.\” - Margaret Atwood",
+				"\“There is no charm equal to tenderness of heart.\” - Jane Austen",
+				"\“It is far better to be alone, than to be in bad company.\” - George Washington",
+				"\“Happiness can exist only in acceptance.\” - George Orwell",
+				"\“I took a deep breath and listened to the old brag of my heart. I am. I am. I am.\” - Sylvia Plath",
+				"\“Tomorrow is always fresh, with no mistakes in it yet.\” - L.M. Montgomery",
+				"\“It's much better to do good in a way that no one knows anything about it.\” - Leo Tolstoy",
+				"\“Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.\” - Harper Lee"
+
 			],
+
+			/*
 			morning: [
 				"Good morning, handsome!",
 				"Enjoy your day!",
@@ -29,6 +55,7 @@ Module.register("compliments", {
 				"You look nice!",
 				"Hi, sexy!"
 			]
+			*/
 		},
 		updateInterval: 30000,
 		remoteFile: null,
