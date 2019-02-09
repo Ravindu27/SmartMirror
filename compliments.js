@@ -6,7 +6,7 @@
  * By Michael Teeuw http://michaelteeuw.nl
  * MIT Licensed.
  */
-Module.register("compliments", {
+Module.register("compliments", { 
 
 	// Module config defaults.
 	defaults: {
